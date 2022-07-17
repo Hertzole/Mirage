@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmirage_docs=self.webpackChunkmirage_docs||[]).push([[6007],{16702:e=>{e.exports=JSON.parse('{"title":"General","slug":"/category/general","permalink":"/Hertzole/Mirage/docs/category/general","navigation":{"next":{"title":"Overview","permalink":"/Hertzole/Mirage/docs/general/overview"}}}')}}]);
